@@ -1,7 +1,6 @@
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)]
 <h1 align="center">Hi 👋, I'm Salman Azmi Rafi</h1>
 <h3 align="center">I'm Web Developer</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanazmirafi&label=Profile%20views&color=0e75b6&style=flat" alt="salmanazmirafi" /> </p>
