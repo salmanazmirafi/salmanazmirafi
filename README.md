@@ -1,4 +1,4 @@
-![Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/316136110_151991657551957_5681345999305689577_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ii7OPDtGXh4AX_FYhm2&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfCu8ID2Yj57xPI1NDwhVuXjbFZX2lErr_Bw_chS1d9-xg&oe=637CE904)
+![Web Developer](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)
 
 ### Hi there 👋, my name is Salman Azmi Rafi
 #### Web Developer
