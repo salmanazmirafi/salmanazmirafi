@@ -1,37 +1,26 @@
-[![MasterHead](https://jayamwebsolutions.com/img/website.gif)]
-<h1 align="center">Hi 👋, I'm Salman Azmi Rafi</h1>
-<h3 align="center">I'm Web Developer</h3>
+### Hi there 👋, my name is Salman Azmi Rafi
+#### Web Developer
+![Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/316136110_151991657551957_5681345999305689577_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ii7OPDtGXh4AX_FYhm2&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfCu8ID2Yj57xPI1NDwhVuXjbFZX2lErr_Bw_chS1d9-xg&oe=637CE904)
+
+I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
+
+Skills: PHP / NODE JS / REACT / JS /  CSS / HTML 
+
+- 🔭 I’m currently working on salman azmi rafi 
+- 🌱 I’m currently learning Python and PHP 
+- 💬 Ask me about Web Develop 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanazmirafi&label=Profile%20views&color=0e75b6&style=flat" alt="salmanazmirafi" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salmanazmirafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salmanazmirafi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/salmanazmirafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/salmanazmirafi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/salmanazmirafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/salmanazmirafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/salmanazmirafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https//www.salmanazmirafi.com)  
 
-<p align="left"> <a href="https://twitter.com/salmanazmirafi" target="blank"><img src="https://img.shields.io/twitter/follow/salmanazmirafi?logo=twitter&style=for-the-badge" alt="salmanazmirafi" /></a> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- 🌱 I’m currently learning **React Native**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazmirafi)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 All of my projects are available at [https://salmanazmirafiproject.xyz/](https://salmanazmirafiproject.xyz/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanazmirafi&show_icons=true)  
 
-- 📝 I regularly write articles on [https://www.salmanazmirafi.com/](https://www.salmanazmirafi.com/)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salmanazmirafi)  
 
-- 💬 Ask me about **Web ,Apps**
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salmanazmirafi)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://fb.com/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://instagram.com/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://dribbble.com/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://www.behance.net/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/salmanazmirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salmanazmirafi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanazmirafi&show_icons=true&locale=en&layout=compact" alt="salmanazmirafi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanazmirafi&show_icons=true&locale=en" alt="salmanazmirafi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanazmirafi&" alt="salmanazmirafi" /></p>
+![Profile views](https://gpvc.arturio.dev/salmanazmirafi)  
