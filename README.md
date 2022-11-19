@@ -18,10 +18,6 @@ Skills: PHP / NODE JS / REACT / JS /  CSS / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanazmirafi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanazmirafi&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salmanazmirafi)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salmanazmirafi)  
 
 ![Profile views](https://gpvc.arturio.dev/salmanazmirafi)  
