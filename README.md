@@ -1,6 +1,7 @@
+![Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/316136110_151991657551957_5681345999305689577_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ii7OPDtGXh4AX_FYhm2&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfCu8ID2Yj57xPI1NDwhVuXjbFZX2lErr_Bw_chS1d9-xg&oe=637CE904)
+
 ### Hi there 👋, my name is Salman Azmi Rafi
 #### Web Developer
-![Web Developer](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/316136110_151991657551957_5681345999305689577_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ii7OPDtGXh4AX_FYhm2&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfCu8ID2Yj57xPI1NDwhVuXjbFZX2lErr_Bw_chS1d9-xg&oe=637CE904)
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
@@ -19,8 +20,8 @@ Skills: PHP / NODE JS / REACT / JS /  CSS / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanazmirafi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salmanazmirafi)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salmanazmirafi)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salmanazmirafi)  
 
 ![Profile views](https://gpvc.arturio.dev/salmanazmirafi)  
