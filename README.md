@@ -5,7 +5,7 @@
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 
-Skills: PHP / NODE JS / REACT / JS /  CSS / HTML 
+Skills: PYTHON / PHP / NODE JS / REACT / JS /  CSS / HTML 
 
 - 🔭 I’m currently working on salman azmi rafi 
 - 🌱 I’m currently learning Python and PHP 
