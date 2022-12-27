@@ -3,7 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:salmanazmirafipersonal@gmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/salmanazmirafi)
-<img src="https://wallpaperaccess.com/full/1947431.jpg">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=salmanazmirafi&bg_color=000000&color=ffffff&line=99ffee&point=dbdbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamraufu.iamraufu) -->
